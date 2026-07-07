@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá! Eu sou Arthur Freitas Sultanum Burgos 👋
 
-<!--
-**afsb2/afsb2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mim
 
-Here are some ideas to get you started:
+- 🎓 Estudante de Ciência da Computação na CESAR School.
+- 🌱 Atualmente estudando Python, JavaScript, HTML e CSS.
+- 💡 Interesse em Inteligência Artificial e Back-end
+- 🚀 Buscando evoluir nesse meio da tecnologia e inovação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+
+- LinkedIn:https://www.linkedin.com/in/arthur-burgos23/
+- GitHub: https://github.com/afsb2
+
+---
+
+⭐ Obrigado por visitar meu perfil!
